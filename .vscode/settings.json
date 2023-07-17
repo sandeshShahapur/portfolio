@@ -1,0 +1,4 @@
+{
+  "discord.enabled": true,
+  "discord.detailsEditing": "Editing {file_name}"
+}

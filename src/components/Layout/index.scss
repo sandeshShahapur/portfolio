@@ -1,0 +1,45 @@
+.page {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.tags {
+  color: #ffd700;
+  opacity: 0.6;
+  position: absolute;
+  bottom: 0;
+  left: 120px;
+  font-size: 18px;
+  font-family: 'La Belle Aurore', cursive;
+}
+
+.top-tags {
+  top: 35px;
+}
+
+.bottom-tags {
+  bottom: 55px;
+}
+
+.bottom-tag-html {
+  position: absolute;
+  margin-left: -20px;
+  bottom: 0;
+  margin-bottom: -24px;
+}
+
+.container {
+  width: 100%;
+  will-change: contents;
+  height: 90%;
+  min-height: 566px;
+  position: absolute;
+  opacity: 0; //has a load in animation
+  top: 0;
+  margin: 0 auto;
+  z-index: 1;
+  transform-style: preserve-3d;
+  animation: fadeIn 1s forwards;
+  animation-delay: 1s;
+}
