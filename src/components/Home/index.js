@@ -54,7 +54,7 @@ const Home = () => {
               idx={24}
             />
           </h1>
-          <h2>Pursuing CSE | </h2>
+          <h2>Pursuing CSE | Lets write the future together!</h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
           </Link>
