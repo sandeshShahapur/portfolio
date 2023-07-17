@@ -1,9 +1,9 @@
 {
+  "homepage": "https://sandeshShahapur.github.io/portfolio",
   "name": "portfolio-fcc",
   "version": "0.1.0",
   "private": "false",
   "dependencies": {
-    "homepage": "https://sandeshShahapur.github.io/portfolio",
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
