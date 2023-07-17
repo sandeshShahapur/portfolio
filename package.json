@@ -1,7 +1,7 @@
 {
   "name": "portfolio-fcc",
   "version": "0.1.0",
-  "private": false,
+  "private": "false",
   "dependencies": {
     "homepage": "https://sandeshShahapur.github.io/portfolio",
     "@emailjs/browser": "^3.11.0",
