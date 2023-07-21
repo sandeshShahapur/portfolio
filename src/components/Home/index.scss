@@ -79,3 +79,51 @@
     }
   }
 }
+
+/* Mobile Responsive Styles */
+@media screen and (max-width: 768px) {
+  .home-page .text-zone {
+    position: relative;
+    left: 0;
+    top: 0;
+    transform: none;
+    width: 100%;
+    max-height: none;
+  }
+
+  .home-page h1:before,
+  .home-page h1:after {
+    display: none;
+  }
+
+  .home-page img {
+    display: none; /* Hide the image on mobile */
+  }
+
+  .home-page .flat-button {
+    float: none;
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 124px;
+  }
+
+  .logo-container {
+    position: relative;
+    width: 100px;
+    height: auto;
+    top: 50px;
+    right: 0;
+    box-sizing: border-box;
+    margin: auto;
+    left: 0;
+  }
+
+  .logo-container svg {
+    position: absolute;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: 0;
+    margin: auto;
+  }
+}
