@@ -1,4 +1,6 @@
-A portfolio webpage (non responsive) built with ReactJs and SASS with the help of few online resources. Learnt how to create SPA and incorporated various animations and hover effects to smoothen user experience.
+A portfolio webpage built with ReactJs and SASS with the help of few online resources. Learnt how to create SPA and incorporated various animations and hover effects to smoothen user experience.
+
+[Check it out!](https://sandeshshahapur.github.io/portfolio/)
 
 ## Home page
 https://github.com/sandeshShahapur/portfolio/assets/110241292/1f0ba9e4-7c76-4695-8b74-0e1f74123c49
