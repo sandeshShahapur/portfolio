@@ -37,7 +37,7 @@ const About = () => {
             />
           </h1>
           <p>
-            As a first-year student pursuing CSE, I am eager to explore the vast
+            As a second-year student pursuing CSE, I am eager to explore the vast
             world of software engineering and contribute to innovative projects.
             Throughout my journey, I am dedicated to continuous learning, honing
             my skills, and collaborating with like-minded individuals to create
